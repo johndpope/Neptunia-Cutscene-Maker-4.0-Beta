@@ -1,0 +1,7 @@
+The original Noire model included in this version as well as previous versions was created by photoshopping out the 
+background from the actual games. The files included in this folder are the various assets used to create the model.
+The reason I feel the need to mention this is because a few days after finishing this file we found a download for the
+actual in game assets for the games (which I included in this file under /...). This is important since should you chose
+to modify the model you may run into some issues since the assets here were taken from screenshots and the game engine
+generally distorts the assets to give the illusion of motion. The screenshots were taken from Megadimension Neptunia VII
+so if you do want to modify the model your best bet is to include character models from there

@@ -1,0 +1,10 @@
+Cubism is a program that lets u animate 2d characters real easy. for what we are using it for it is the
+perfect fit. I am utter trash at Live2d and even though I literally made this process I still barely understand
+how this ****ing program works so I HIGHLY recommend watching a tutorial on it. 
+
+Essensially all u need to do is screen record the idle loop along with whatever edits u make including but not 
+limited to lip sync and stuff like that. u dont need to learn how to make the models u just need to know the basics
+of the software package and how to navagate everything. if u want to add in emotions or lip sync however u will need
+to learn the software
+
+- Ralph

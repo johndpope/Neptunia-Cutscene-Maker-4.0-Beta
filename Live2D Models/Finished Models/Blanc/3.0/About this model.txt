@@ -1,0 +1,11 @@
+Blanc 3.0 #1 is a new model made for the v2.1.1 update. 
+
+Blanc 3.0 #2 is a Live2d 2.1 model made by discord user Borisu converted over to 3.0.
+
+Due to the fact that Borisu is MUCH better at Live2D than me, model #2 has noticeably better
+animations than #1. If you are making a simple idle loop or basic lip sync then use model #2. 
+If you want to add in emotions then use model #1 along with the parts included. Anything missing
+from the PNG is already in the PSD. I will be adding in various features to model #1 as the project
+continues
+
+-Ralph

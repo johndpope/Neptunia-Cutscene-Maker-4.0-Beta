@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "Neptune",
+	"model": "Neptune.moc",
+	"textures": [
+		"Neptune.512/texture_00.png"
+	]
+}
