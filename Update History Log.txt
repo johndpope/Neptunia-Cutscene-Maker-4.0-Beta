@@ -167,8 +167,8 @@ Status: Complete, not public
 Major changes:
 - Switch from using Live2D models to original in-game models using a modding tool.
 
-Notes: This version was not released public because the previous version already contained the
-same modding tool used to obtain the original in-game models. Because of this even though the overall
+Notes: This version was not released public because the previous version already contained the same 
+modding tool used to obtain the original in-game models. Because of this even though the overall
 process for making the cutscenes changed which justified calling it version 3.0, nothing was actually 
 added. I was considering making a catalog of all the character model animations so you don't need
 to rip the models yourself however due to technical difficulties, time constraints, and file size
@@ -183,8 +183,7 @@ Major changes:
 - Updated Sony Vegas template
 - Updated text box
 - Inclusion of a 2nd modding tool
-- 
-
+------------------------------------------------------------------------------------------------------
 
 
 
