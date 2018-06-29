@@ -1,0 +1,191 @@
+Release Version 1.0
+Release Status: Public
+
+Features:
+- Create decent looking cutscenes by copying and pasting the letters frame by frame into a video editor
+- minimal software and skill requirements
+- static character models
+
+Bugs:
+- letters were poorly ripped thus they dont look consistent
+- the need to eyeball where text goes slows everything down and makes it look very much off measurment
+- SUPER TEDIUS!!!
+
+approx time per slide: 2-3 hours
+time to make 1 minute clip: approx 1-3 months
+
+----------------------------------------------
+Beta Version 1.1
+Release Status: Scrapped
+
+Features:
+- Speeds up creation process by pre-typing everything and removing the background frame by frame in game engine and screen record the result.
+- letters are now consistent and in the proper places
+
+Bugs:
+- Gamemaker doesnt work well with large sprites
+- Process still super tedious
+
+aprox time per slide: 1 hour
+Time to make 1 minute clip: approx 1 month
+----------------------------------------------
+Beta Version 2.0.0
+Release Status: Unreleased
+
+Features: 
+- Speeds up process EXPONENTIALLY by removing the need to do any frame by frame editing. Now Gamemaker does the text scroll and you
+simply greenscreen it into the editor.
+
+Bugs:
+- Font not identicle to actual games
+- text box coloring issues
+- still using static character models
+- screenshots of backgrounds are poor quality due to issue with screen recorder
+- no easy way to gauge where the end of the textbox is without closing out of preview.
+
+Aprox time per slide: 1-5 minutes
+time to make 1 minute clip: 10-20 minutes
+------------------------------------------------------------------
+Beta Version 2.0.1
+Release Status: Unreleased
+
+Features: 
+- Introduction of basic non-static character models and potential for lip sync through facerig
+- theoretical recording process may be tedius due to the need to actually repeat the lines yourself with a good webcam to capture lipsync
+- Addition of correct font used in game for textscroll
+
+Bugs:
+- Models are VERY figity. they move way too much
+- lip sync is not very accurate
+- Low quality models and relience on already-made models
+- Models look different from games in terms of proportions and size.
+
+Approx time per slide: 1-5 minutes
+approx time per 1 minute video: 10-20 minutes
+------------------------------------------------------------------------
+Release Version 2.0.2
+Status: Public
+Release date: August 16th 2017
+
+Features: 
+- Addition of 3 Custom Live2D models with full idle loop, Lip Sync, and Blinking Animations.
+- Models Included are Neptune, Noire, and Blanc
+- Lots of minor tweaks to overall process to improve efficiency and organization.
+- Creation of template to assist in making videos easier
+
+Bugs: 
+- Limited Model Support
+- Minor issues with all 3 Models
+- No character Emotions
+- Models made from low quality photoshopped screenshots of game. 
+- Model files poorly organized
+
+Approx time per slide: 1-5 minutes
+Approx time per 1 minute video: 10-20 minutes for basic video, 1+ hour for more advanced work
+----------------------------------------------------------------------------------------------
+Version 2.1.0
+Status: Public
+Release Date: At or around September 12, 2017
+
+Features: 
+- Overhaul of all templates to make things more organized
+- Overhaul of all file folders for organization
+- Detailed text file tutorials explaining whats what
+- New Custom Assets
+- Beta Support for Nepstation style videos
+- Full Gamemaker 1 support
+- Addition of ripped game assets
+- High Quality Backgrounds from all games
+- Sound effect/Music folder
+- Unfinished Mini Histy Character Model
+- And More!
+
+Bugs:
+- Live2D is still super complicated and cumbersom
+- No new major character support
+- Many minor issues with Nepstation support
+- Gamemaker 1 support missing minor features that Gamemaker 2 build has
+
+Approx time per slide: 1-5 minutes
+Approx time per 1 minute video: 10-20 minutes for basic video, 1+ hour for more advanced work
+------------------------------------------------------------------------------------------------
+Version 2.1.1A
+Status: Public
+Release Date: October 16th 2017
+
+Bug Fixes:
+- Changed location of Gamemaker Installer folder
+- Updated Music and Sound folder files for clarity
+- Updated folder and file names for clarity
+
+New Features:
+- Live2D 3.0 Support for all existing models
+- New Models: Vert 3.0, Blanc 3.0 #1, Blanc 3.0 #2, Neptune 3.0, Noire 3.0
+- Couple Sound Effects Added
+- New Text Scroll Option Alternative (Via Adobe After Effects rather than Gamemaker, Experimental)
+- Neptune 3.0 New Emotions: Troll Face, Crying
+- Blanc 3.0 #1 New Emotions: Angry
+- New Unfinished Models: Nepgear, and Planc
+- New folder for character screenshots with various emotions intended for screenshots rather than full videos
+- Tutorial for making custom screenshots
+- Modding program that lets you extract the game assets
+- New practice folder with bare minimum assets for practicing sony vegas editing
+- Lots of other minor improvements
+
+Bugs:
+- After effects template only half works. Will be included but not supported going forward
+- Minor visual issues with the Vert model, need to remake it
+- Nepstation Template needs some general usability and bug fixes
+--------------------------------------------------------------------------------------------------
+Version 2.1.1B (Emergency bug fix!!!)
+Status: Public
+Release Date: October 17th 2017
+
+There is an issue with the installer included to get Gamemaker 1. The installer itself works however you
+need a license in order to use it. This emergency update fixes that by adding a text file explaining how
+to work around that by getting the steam version of the program. In addition to that the steam version
+can only read .project.gmx files and the file had a few bugs all of which were fixed
+
+--------------------------------------------------------------------------------------------------
+Version 2.1.2 
+Status: Canceled
+https://drive.google.com/drive/folders/0B3CSC3KpCXxxN1VSbDU4ZlRGTW8?usp=sharing
+Release Date: 
+
+Planned Features:
+- Additional Emotions for existing models
+- New Models: Mini Histy, Nepgear, Uni
+- General Improvements to Nepstation Cutscenes
+- New Sound and Music Files
+- More TBA at a later date
+
+If you want to know when certain updates and features will be released follow me on twitter @Rkraiem100
+------------------------------------------------------------------------------------------------------
+Version 3.0
+Status: Complete, not public
+
+Major changes:
+- Switch from using Live2D models to original in-game models using a modding tool.
+
+Notes: This version was not released public because the previous version already contained the
+same modding tool used to obtain the original in-game models. Because of this even though the overall
+process for making the cutscenes changed which justified calling it version 3.0, nothing was actually 
+added. I was considering making a catalog of all the character model animations so you don't need
+to rip the models yourself however due to technical difficulties, time constraints, and file size
+limitations when sharing the file, the decision was made to scrap this idea.
+------------------------------------------------------------------------------------------------------
+Version 4.0
+Status: Complete
+Release Date: 6/28/2018
+
+Major changes:
+- Addition of a custom made program that allows for you to more efficiently create cutscenes
+- Updated Sony Vegas template
+- Updated text box
+- Inclusion of a 2nd modding tool
+- 
+
+
+
+
+

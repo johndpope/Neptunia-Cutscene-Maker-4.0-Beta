@@ -1,0 +1,82 @@
+---------------------------------------------------------------------------------------------------------------------
+Edit 6/28/2018 (Version 4.0b)
+Many aspects of this tutorial are likely outdated thanks to the inclusion of the updated Text Scroll program. I will
+update this tutorial in the near future to reflect the current process).
+---------------------------------------------------------------------------------------------------------------------
+
+
+Steps for Image:
+
+Note: Steps 1-5 are just initial setup. Once those steps are done you can go straight to step 6
+1- Download "assets" zip and 2.1.0 zip
+2- Unzip files
+3- If you dont plan to make videos then you may delete the following:
+	- Sony Vegas Template Folder
+	- Music and Sound Effects
+	- In the Character Model Cubism Files:
+		- Facerig Files
+		- Finished Models
+		- Important Downloads
+4- Download the following programs: Photoshop (or a free alternative. Paint.net is fine for basic stuff), Gamemaker 1 or 2
+
+Differences between Gamemaker 1 and 2:
+Gamemaker 1- Free, really annoying to make games (since this is a template this doesnt affect you. interface is bad though)
+Gamemaker 2- $60, real easy to make games
+
+There is a way around using gamemaker if you want but it makes it look slightly less accurate to the games (see below)
+
+
+5- In the main folder there is a file named "Neptunia Text Font (REQUIRED!!!).otf. This is a download for the font
+used in RB1 (aktiv grotesk). This is not a default windows font so you have to download it. You can use another
+font but it wont look as real. In order to download it simply double click it. Windows will give you a warning
+which is normal and you can ignore (Fonts are saved in the System 32 and any changes to system 32 trip the security.
+The reason for this is because hackers often use fake downloads of legit programs to gain access to the system and
+bypass security through vulnerabilities). The computer may ask you to restart.
+
+
+Once steps 1-5 are done you are ready to make cutscenes. There are 2 ways to do this: You can either use Gamemaker to prerender
+the text properly and greenscreen it in or you can manually add it in in photoshop.
+
+
+Steps 6-10 are only required if you are using Gamemaker. It makes the overall image look more accurate if you do it right but takes a few extra minutes
+and requires photoshop and knowlege of greenscreening in photoshop
+===========================================================================================================================================================
+Additional Steps With Gamemaker (it seems complicated but its SUPER easy once u get used to it)
+
+6- With Gamemaker 1 or 2 downloaded and installed navigate to the folder marked "Gamemaker" and open the template file (gm1: .gmx, gm2: .yyp).
+7- With that opened navigate to the Fonts tab, click the dropdown for select font, and click aktiv grotesk (Only required to do once)
+8- Navigate to the objects tab and under obj_spawner click the step event. In the step event on line 6 it says "str = "x";. Change that x
+to whatever you want it to say. keep in mind you need to put a # to skip lines manually.
+9- in Gamemaker 2 you can preview the text in the actual textbox by pressing right arrowkey. In Gamemaker 1 i dont believe that is currently
+supported thus there should be a little text thing that looks something like this and u just have to make sure ur text doesnt go past the dashes
+---------------------
+
+---------------------
+
+---------------------
+10- Run the code and click anywhere in the box for the text to start scrolling. Once its at the end use a screen recorder to screenshot the screen.
+MAKE SURE TO SCREENSHOT IT WITH THE GREEN BACKGROUND WITHOUT THE TEXT BOX IF U ARE USING GAMEMAKER 2!!! Make sure your screenshot is 1920x400
+since it makes things MUCH faster and easier. Also make sure to save it as a PNG and the highest quality possible to avoid minor issues
+===========================================================================================================================================================
+
+11- Once you screenshot the text open Photoshop and set up your scene
+12- To set up your scene select a background from the backgrounds folder. The backgrounds are separated by game. Also the backgrounds for VII are modular
+meaning u can change the sky box texture to make the scene either night or day for many backgrounds. Set the background in the back-most layer
+13- Next add in the character model. You can either google them or you can construct them using the assets found under /2.1.0/character model cubism files/original game models(unedited)/
+Models are divided up by game. Its pretty much like a puzzle, put the pieces together and walla. doing this allows for a limitless amount of emotions, character combinations,
+you can even combine aspects of different characters to make something unique. Keep in mind btw that the models from VII are more complex than RB1-RB3 so if u are
+not good at photoshops stick with those. Update 2.1.1 (coming in 1-3 weeks) will add in some basic plug-n-play models for easier use but for now you must construct the model yourself
+14- Resize the character model and set it in the layer above the background.
+15- navigate to the folder marked "text box files" and drag and drop the file marked "dialog box no name.png". Place this above the character character model layer
+16- There are a few default names in the text box files folder but if the one you want isnt there then open the "text box name area" file and add in a name. Place this above the dialog box
+17- you may use the "dialog box no arrow test.png" file as a guide for where the dialog box goes
+
+(if you are using Gamemaker)18- Paste in the screenshot of the text, line up the bottom row of pixels, and greenscreen it
+
+(if you are not using Gamemaker) 19- Write the text in the text box using the correct font. You will have to play with the sizing, positioning, etc. to get it right
+which is why i recommend using Gamemaker instead but this is faster
+
+
+
+
+- Ralph
