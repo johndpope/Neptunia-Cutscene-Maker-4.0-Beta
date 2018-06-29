@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------------------------------------
+Edit 6/28/2018 (Version 4.0b)
+This file is MASSIVELY outdated and needs an overhaul. I'll get around to it in a future update
+---------------------------------------------------------------------------------------------------------------------
+
+New to this update is the ability to create Nepstation style videos. I had to create the dialog bubble from
+scratch and included this nepstation part really last minute so it will be improved upon for the next update.
+
+At the moment it works with 1 nepstation background, a non-animated nepstation intro (might animate it later on),
+music, and dialog support. Due to this feature being in beta if you would like to adjust the text box you will
+have to do that on your end. Future updates will include a illistrator text box rather than a PNG which should
+make it easier to manipulate. Feature is in beta but is not nearly as complicated as the other template so
+it is pretty self explanitory. 
+
+ALSO REMEMBER TO TELL SONY VEGAS WHERE THE ASSETS ARE SO THE TEMPLATE WORKS AND TO USE THE OTHER FOLDER FOR
+YOUR OWN ASSETS!!!
+
+
+- Ralph
